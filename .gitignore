@@ -1,3 +1,9 @@
+# store all data in data folder
+data/
+env/
+checkpoints/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
